@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="373" height="73" viewBox="0 0 373 73">
+  <g id="Logo" transform="translate(-735 -78)">
+    <path id="Icon_awesome-wave-square" data-name="Icon awesome-wave-square" d="M56.455,55.384H38.427a4.27,4.27,0,0,1-4.27-4.27V9.841H22.772v18.5a4.27,4.27,0,0,1-4.27,4.27H1.9a1.9,1.9,0,0,1-1.9-1.9v-3.8a1.9,1.9,0,0,1,1.9-1.9H15.181V6.52a4.27,4.27,0,0,1,4.27-4.27H37.479a4.27,4.27,0,0,1,4.27,4.27V47.794H53.134v-18.5a4.27,4.27,0,0,1,4.27-4.27h16.6a1.9,1.9,0,0,1,1.9,1.9v3.8a1.9,1.9,0,0,1-1.9,1.9H60.725v18.5A4.27,4.27,0,0,1,56.455,55.384Z" transform="translate(735 86.155)" fill="#9495a7"/>
+    <text id="SOUNDTEST" transform="translate(826 133)" fill="#9495a7" font-size="51" font-family="AauxNext-Bold, Aaux Next" font-weight="700"><tspan x="0" y="0">SOUNDTEST</tspan></text>
+  </g>
+</svg>
