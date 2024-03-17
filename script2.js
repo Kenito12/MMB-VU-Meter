@@ -14,7 +14,6 @@ let VUMeter = document.getElementById("VUMeter")
 let goBut = document.getElementById("goBut")
 
 //Button action
-
 //set z index of the page when the button is clicked
 goBut.onclick = () => {
     VUMeter.style.zIndex = "1";
@@ -130,7 +129,7 @@ class Particles {
 }
 
 
-// When the funciton is called, take in getlevel as parameter and put it into a condition to identify the result
+// When the function is called, take in getlevel as parameter and put it into a condition to identify the result
 let volumeChecker = (volume) => {
     if(volume > 0.08){
         // too loud
@@ -144,7 +143,7 @@ let volumeChecker = (volume) => {
     }
     else{
         //perfect
-       result = "Pefect"
+       result = "Perfect"
         color = "#1CB982"
     }
 }
