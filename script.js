@@ -26,7 +26,7 @@ function draw() {
     // set width of rect representing volume equal to: 
     // the current volume * width OR previous width -1 (whichever is larger)
     meterSize = max(volume * height, meterSize -5);
-    VU = rect(0, height, windowWidth, -meterSize * 3);
+    VU = rect(0, height, windowWidth, -meterSize * 10);
     if(volume > 0.220){
         meterColor = "red"
         txtAlert = "Too Loud"
